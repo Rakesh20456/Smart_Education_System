@@ -1,0 +1,2046 @@
+{
+  "Blockchain": [
+    {
+      "question": "What is Blockchain?",
+      "options": [
+        "A decentralized digital ledger",
+        "A centralized database",
+        "A type of digital currency",
+        "A cryptographic algorithm"
+      ],
+      "answer": "A decentralized digital ledger"
+    },
+    {
+      "question": "Which of these is the most commonly used consensus algorithm in Blockchain?",
+      "options": [
+        "Proof of Work",
+        "Proof of Stake",
+        "Proof of Authority",
+        "Proof of Space"
+      ],
+      "answer": "Proof of Work"
+    },
+    {
+      "question": "What is a smart contract?",
+      "options": [
+        "A self-executing contract with terms directly written into code",
+        "A contract signed by a notary public",
+        "A legal document stored on the blockchain",
+        "A type of cryptocurrency"
+      ],
+      "answer": "A self-executing contract with terms directly written into code"
+    },
+    {
+      "question": "Which cryptocurrency uses blockchain technology?",
+      "options": [
+        "Bitcoin",
+        "Ether",
+        "Ripple",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "What is the purpose of a 'block' in Blockchain?",
+      "options": [
+        "To store transaction data",
+        "To encrypt the network",
+        "To maintain the ledger",
+        "To generate new coins"
+      ],
+      "answer": "To store transaction data"
+    },
+    {
+      "question": "What is the main advantage of Blockchain technology?",
+      "options": [
+        "Decentralization and transparency",
+        "Faster transaction speeds",
+        "Lower transaction fees",
+        "Centralized control"
+      ],
+      "answer": "Decentralization and transparency"
+    },
+    {
+      "question": "Which of the following is NOT a feature of Blockchain?",
+      "options": [
+        "Immutable",
+        "Centralized",
+        "Transparent",
+        "Distributed"
+      ],
+      "answer": "Centralized"
+    },
+    {
+      "question": "What does 'mining' mean in the context of Blockchain?",
+      "options": [
+        "Creating new blocks by solving cryptographic puzzles",
+        "Transferring coins from one account to another",
+        "Storing data in a block",
+        "Encrypting the data"
+      ],
+      "answer": "Creating new blocks by solving cryptographic puzzles"
+    },
+    {
+      "question": "What is a public key in Blockchain?",
+      "options": [
+        "A cryptographic key used to encrypt data",
+        "A unique identifier for each transaction",
+        "A key used to verify the authenticity of a block",
+        "A private key used for signing transactions"
+      ],
+      "answer": "A cryptographic key used to encrypt data"
+    },
+    {
+      "question": "What is the main disadvantage of Blockchain?",
+      "options": [
+        "Slow transaction speed",
+        "Centralized control",
+        "Lack of transparency",
+        "High transaction fees"
+      ],
+      "answer": "Slow transaction speed"
+    }
+  ],
+  "Python": [
+    {
+      "question": "What is Python?",
+      "options": [
+        "A programming language",
+        "A web framework",
+        "A database system",
+        "A type of cryptocurrency"
+      ],
+      "answer": "A programming language"
+    },
+    {
+      "question": "Which of the following is a Python data structure?",
+      "options": [
+        "List",
+        "Tuple",
+        "Dictionary",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "Which of the following is used to define a function in Python?",
+      "options": [
+        "def",
+        "function",
+        "fun",
+        "define"
+      ],
+      "answer": "def"
+    },
+    {
+      "question": "What is the correct way to declare a variable in Python?",
+      "options": [
+        "var x = 10",
+        "x = 10",
+        "int x = 10",
+        "declare x = 10"
+      ],
+      "answer": "x = 10"
+    },
+    {
+      "question": "Which of these is used to handle exceptions in Python?",
+      "options": [
+        "try-except",
+        "if-else",
+        "for-while",
+        "catch-finally"
+      ],
+      "answer": "try-except"
+    },
+    {
+      "question": "What is the purpose of the 'self' keyword in Python?",
+      "options": [
+        "To refer to the instance of the class",
+        "To define a variable",
+        "To initialize the function",
+        "To import libraries"
+      ],
+      "answer": "To refer to the instance of the class"
+    },
+    {
+      "question": "Which of the following is a Python library used for data analysis?",
+      "options": [
+        "NumPy",
+        "Pandas",
+        "Matplotlib",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "What does the 'break' statement do in Python?",
+      "options": [
+        "Exits the loop",
+        "Skips to the next iteration",
+        "Pauses the program",
+        "Continues with the next statement"
+      ],
+      "answer": "Exits the loop"
+    },
+    {
+      "question": "Which of these is used to import a module in Python?",
+      "options": [
+        "import",
+        "include",
+        "require",
+        "load"
+      ],
+      "answer": "import"
+    },
+    {
+      "question": "What is the output of 'print(2 * 3 ** 2)' in Python?",
+      "options": [
+        "18",
+        "36",
+        "12",
+        "9"
+      ],
+      "answer": "18"
+    }
+  ],
+  "Java": [
+    {
+      "question": "Which of the following is a feature of Java?",
+      "options": [
+        "Object-Oriented",
+        "Platform-Independent",
+        "Multithreaded",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "What is the default value of an integer in Java?",
+      "options": [
+        "0",
+        "1",
+        "null",
+        "undefined"
+      ],
+      "answer": "0"
+    },
+    {
+      "question": "Which keyword is used to declare a class in Java?",
+      "options": [
+        "class",
+        "object",
+        "define",
+        "struct"
+      ],
+      "answer": "class"
+    },
+    {
+      "question": "Which of these is used to define a method in Java?",
+      "options": [
+        "function",
+        "method",
+        "void",
+        "def"
+      ],
+      "answer": "void"
+    },
+    {
+      "question": "Which of the following is a valid Java loop?",
+      "options": [
+        "for",
+        "while",
+        "do-while",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "Which method is used to start a thread in Java?",
+      "options": [
+        "start()",
+        "begin()",
+        "run()",
+        "execute()"
+      ],
+      "answer": "start()"
+    },
+    {
+      "question": "Which of these is NOT a valid Java data type?",
+      "options": [
+        "int",
+        "float",
+        "string",
+        "boolean"
+      ],
+      "answer": "string"
+    },
+    {
+      "question": "What is the correct way to handle exceptions in Java?",
+      "options": [
+        "try-catch",
+        "throw-catch",
+        "catch-finally",
+        "if-else"
+      ],
+      "answer": "try-catch"
+    },
+    {
+      "question": "Which of these is used to inherit a class in Java?",
+      "options": [
+        "extends",
+        "implements",
+        "inherits",
+        "includes"
+      ],
+      "answer": "extends"
+    },
+    {
+      "question": "What is the output of 'System.out.println(10 + 5 + \"Java\")' in Java?",
+      "options": [
+        "15Java",
+        "Java15",
+        "10Java5",
+        "Error"
+      ],
+      "answer": "15Java"
+    }
+  ],
+  "R": [
+    {
+      "question": "What is R primarily used for?",
+      "options": [
+        "Data analysis and statistics",
+        "Web development",
+        "Game development",
+        "Machine learning"
+      ],
+      "answer": "Data analysis and statistics"
+    },
+    {
+      "question": "Which function is used to read a CSV file in R?",
+      "options": [
+        "read.csv()",
+        "read_file()",
+        "import()",
+        "load.csv()"
+      ],
+      "answer": "read.csv()"
+    },
+    {
+      "question": "Which of the following is a valid data structure in R?",
+      "options": [
+        "Vector",
+        "List",
+        "Matrix",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "What is the purpose of the 'lm()' function in R?",
+      "options": [
+        "To perform linear regression",
+        "To read a dataset",
+        "To visualize data",
+        "To create a matrix"
+      ],
+      "answer": "To perform linear regression"
+    },
+    {
+      "question": "Which of the following is used to install a package in R?",
+      "options": [
+        "install.packages()",
+        "load.packages()",
+        "require()",
+        "library()"
+      ],
+      "answer": "install.packages()"
+    },
+    {
+      "question": "What does the 'summary()' function do in R?",
+      "options": [
+        "Provides a summary of a data object",
+        "Summarizes all functions in a script",
+        "Creates a summary report",
+        "Performs data cleaning"
+      ],
+      "answer": "Provides a summary of a data object"
+    },
+    {
+      "question": "What is the purpose of the 'plot()' function in R?",
+      "options": [
+        "To create a visual representation of data",
+        "To read data from a file",
+        "To clean data",
+        "To run statistical tests"
+      ],
+      "answer": "To create a visual representation of data"
+    },
+    {
+      "question": "Which of the following is a valid operator in R?",
+      "options": [
+        "+",
+        "-",
+        "*",
+        "All of the above"
+      ],
+      "answer": "All of the above"
+    },
+    {
+      "question": "Which function is used to create a matrix in R?",
+      "options": [
+        "matrix()",
+        "create_matrix()",
+        "array()",
+        "data.frame()"
+      ],
+      "answer": "matrix()"
+    },
+    {
+      "question": "Which of these is NOT a valid function in R?",
+      "options": [
+        "plot()",
+        "summary()",
+        "fit()",
+        "lm()"
+      ],
+      "answer": "fit()"
+    }
+  ],
+  "C": [
+    {
+      "question": "What is the size of an integer in C?",
+      "options": [
+        "2 bytes",
+        "4 bytes",
+        "8 bytes",
+        "Depends on the compiler"
+      ],
+      "answer": "4 bytes"
+    },
+    {
+      "question": "Which of the following is the correct way to declare a pointer in C?",
+      "options": [
+        "int *p",
+        "pointer p",
+        "int &p",
+        "int p*"
+      ],
+      "answer": "int *p"
+    },
+    {
+      "question": "Which of the following is a C keyword?",
+      "options": [
+        "function",
+        "char",
+        "object",
+        "class"
+      ],
+      "answer": "char"
+    },
+    {
+      "question": "Which of the following is used to allocate memory dynamically in C?",
+      "options": [
+        "malloc()",
+        "calloc()",
+        "free()",
+        "All of the above"
+      ],
+      "answer": "malloc()"
+    },
+    {
+      "question": "Which operator is used to get the address of a variable in C?",
+      "options": [
+        "&",
+        "*",
+        "#",
+        "->"
+      ],
+      "answer": "&"
+    },
+    {
+      "question": "What does the 'printf()' function do in C?",
+      "options": [
+        "Prints text to the console",
+        "Takes input from the user",
+        "Returns the value of a variable",
+        "Executes a command"
+      ],
+      "answer": "Prints text to the console"
+    },
+    {
+      "question": "What is the output of the following C code: 'printf(\"%d\", 5+3);'?",
+      "options": [
+        "8",
+        "5+3",
+        "Error",
+        "Nothing"
+      ],
+      "answer": "8"
+    },
+    {
+      "question": "Which of the following is the correct syntax to create a function in C?",
+      "options": [
+        "void function_name()",
+        "function_name()",
+        "def function_name()",
+        "create function_name()"
+      ],
+      "answer": "void function_name()"
+    },
+    {
+      "question": "What is the default return type of a function in C if not specified?",
+      "options": [
+        "int",
+        "void",
+        "char",
+        "float"
+      ],
+      "answer": "int"
+    },
+    {
+      "question": "What is the purpose of the 'return' statement in C?",
+      "options": [
+        "To exit from a function",
+        "To print output",
+        "To assign a value",
+        "To declare a variable"
+      ],
+      "answer": "To exit from a function"
+    }
+  ],
+  "BigData": [
+      {
+      "question": "What is Big Data?",
+      "options": [
+          "A collection of large datasets",
+          "Data stored in the cloud",
+          "Data from social media",
+          "Data that is too large to store"
+      ],
+      "answer": "A collection of large datasets"
+      },
+      {
+      "question": "Which of these is a characteristic of Big Data?",
+      "options": [
+          "Volume",
+          "Variety",
+          "Velocity",
+          "All of the above"
+      ],
+      "answer": "All of the above"
+      },
+      {
+      "question": "What is Hadoop?",
+      "options": [
+          "A Big Data framework",
+          "A database management system",
+          "A programming language",
+          "A data visualization tool"
+      ],
+      "answer": "A Big Data framework"
+      },
+      {
+      "question": "What is MapReduce used for in Big Data?",
+      "options": [
+          "Data storage",
+          "Data processing",
+          "Data visualization",
+          "Data encryption"
+      ],
+      "answer": "Data processing"
+      },
+      {
+      "question": "Which of these is a Big Data storage system?",
+      "options": [
+          "HDFS",
+          "SQL",
+          "NoSQL",
+          "Both HDFS and NoSQL"
+      ],
+      "answer": "Both HDFS and NoSQL"
+      },
+      {
+      "question": "What is a key advantage of using Big Data?",
+      "options": [
+          "Improved decision making",
+          "Lower data processing costs",
+          "Faster data storage",
+          "None of the above"
+      ],
+      "answer": "Improved decision making"
+      },
+      {
+      "question": "Which tool is commonly used for data visualization in Big Data?",
+      "options": [
+          "Tableau",
+          "Excel",
+          "Power BI",
+          "All of the above"
+      ],
+      "answer": "All of the above"
+      },
+      {
+      "question": "Which of these is a type of NoSQL database?",
+      "options": [
+          "MongoDB",
+          "MySQL",
+          "PostgreSQL",
+          "SQLite"
+      ],
+      "answer": "MongoDB"
+      },
+      {
+      "question": "What is the primary use of Apache Spark?",
+      "options": [
+          "Data processing",
+          "Data visualization",
+          "Data storage",
+          "Data encryption"
+      ],
+      "answer": "Data processing"
+      },
+      {
+      "question": "Which language is commonly used for Big Data analytics?",
+      "options": [
+          "Python",
+          "Java",
+          "R",
+          "All of the above"
+      ],
+      "answer": "All of the above"
+      }
+  ],
+  "DeepLearning": [
+      {
+      "question": "What is Deep Learning?",
+      "options": [
+          "A type of machine learning using neural networks",
+          "A programming language",
+          "A type of data analysis",
+          "A data storage technique"
+      ],
+      "answer": "A type of machine learning using neural networks"
+      },
+      {
+      "question": "Which neural network architecture is commonly used for image classification?",
+      "options": [
+          "Convolutional Neural Networks (CNN)",
+          "Recurrent Neural Networks (RNN)",
+          "Generative Adversarial Networks (GAN)",
+          "Fully Connected Networks"
+      ],
+      "answer": "Convolutional Neural Networks (CNN)"
+      },
+      {
+      "question": "What is the main function of an activation function in a neural network?",
+      "options": [
+          "To add non-linearity",
+          "To prevent overfitting",
+          "To initialize weights",
+          "To reduce training time"
+      ],
+      "answer": "To add non-linearity"
+      },
+      {
+      "question": "Which of these is a popular framework for Deep Learning?",
+      "options": [
+          "TensorFlow",
+          "Scikit-learn",
+          "Keras",
+          "All of the above"
+      ],
+      "answer": "All of the above"
+      },
+      {
+      "question": "What does a CNN layer primarily do?",
+      "options": [
+          "Extract features from input data",
+          "Classify data",
+          "Reduce dimensionality",
+          "Generate new data"
+      ],
+      "answer": "Extract features from input data"
+      },
+      {
+      "question": "What is the purpose of backpropagation in neural networks?",
+      "options": [
+          "To update the weights of the network",
+          "To initialize the weights",
+          "To classify data",
+          "To extract features"
+      ],
+      "answer": "To update the weights of the network"
+      },
+      {
+      "question": "Which activation function is commonly used in hidden layers of deep neural networks?",
+      "options": [
+          "ReLU",
+          "Sigmoid",
+          "Tanh",
+          "Softmax"
+      ],
+      "answer": "ReLU"
+      },
+      {
+      "question": "What is a recurrent neural network (RNN) used for?",
+      "options": [
+          "Time-series prediction",
+          "Image classification",
+          "Data encryption",
+          "Data storage"
+      ],
+      "answer": "Time-series prediction"
+      },
+      {
+      "question": "What is the main advantage of using Deep Learning models?",
+      "options": [
+          "Ability to automatically learn features from raw data",
+          "Lower computational requirements",
+          "Less need for labeled data",
+          "Faster training times"
+      ],
+      "answer": "Ability to automatically learn features from raw data"
+      },
+      {
+      "question": "Which technique is commonly used to prevent overfitting in Deep Learning?",
+      "options": [
+          "Dropout",
+          "Batch normalization",
+          "Early stopping",
+          "All of the above"
+      ],
+      "answer": "All of the above"
+      }
+  ],
+  "Tableau": [
+      {
+      "question": "What is Tableau?",
+      "options": [
+          "A data visualization tool",
+          "A data analysis tool",
+          "A machine learning library",
+          "A database management system"
+      ],
+      "answer": "A data visualization tool"
+      },
+      {
+      "question": "Which of these can be used to filter data in Tableau?",
+      "options": [
+          "Dimensions",
+          "Measures",
+          "Filters",
+          "All of the above"
+      ],
+      "answer": "All of the above"
+      },
+      {
+      "question": "What is the primary function of Tableau's 'Calculated Field'?",
+      "options": [
+          "To create new data based on existing data",
+          "To visualize data",
+          "To import data",
+          "To connect to a database"
+      ],
+      "answer": "To create new data based on existing data"
+      },
+      {
+      "question": "What type of data visualization does Tableau support?",
+      "options": [
+          "Bar charts",
+          "Line graphs",
+          "Heatmaps",
+          "All of the above"
+      ],
+      "answer": "All of the above"
+      },
+      {
+      "question": "Which of these is a feature of Tableau?",
+      "options": [
+          "Drag-and-drop interface",
+          "Real-time data analysis",
+          "Interactive dashboards",
+          "All of the above"
+      ],
+      "answer": "All of the above"
+      },
+      {
+      "question": "What is a 'Dashboard' in Tableau?",
+      "options": [
+          "A collection of different visualizations",
+          "A single data table",
+          "A filter applied to data",
+          "A data connection"
+      ],
+      "answer": "A collection of different visualizations"
+      },
+      {
+      "question": "What is the function of Tableau Prep?",
+      "options": [
+          "Data cleaning and preparation",
+          "Data visualization",
+          "Data analysis",
+          "Data storage"
+      ],
+      "answer": "Data cleaning and preparation"
+      },
+      {
+      "question": "Which type of data connection does Tableau support?",
+      "options": [
+          "Live connection",
+          "Extract connection",
+          "Both live and extract connections",
+          "None of the above"
+      ],
+      "answer": "Both live and extract connections"
+      },
+      {
+      "question": "Which file extension is used by Tableau for saved workbooks?",
+      "options": [
+          ".twb",
+          ".xlsx",
+          ".csv",
+          ".txt"
+      ],
+      "answer": ".twb"
+      },
+      {
+      "question": "What is Tableau's 'Show Me' feature?",
+      "options": [
+          "A guide to selecting the right chart type",
+          "A data connection tool",
+          "A data analysis tool",
+          "A dashboard editor"
+      ],
+      "answer": "A guide to selecting the right chart type"
+      }
+  ],
+  "DevOps": [
+      {
+      "question": "What is the primary goal of DevOps?",
+      "options": [
+          "Faster software delivery and deployment",
+          "Building hardware infrastructure",
+          "Reducing the need for version control",
+          "Managing user data"
+      ],
+      "answer": "Faster software delivery and deployment"
+      },
+      {
+      "question": "Which of these tools is commonly used for continuous integration in DevOps?",
+      "options": [
+          "Jenkins",
+          "GitHub",
+          "Docker",
+          "AWS"
+      ],
+      "answer": "Jenkins"
+      },
+      {
+      "question": "What does CI/CD stand for in the context of DevOps?",
+      "options": [
+          "Continuous Integration and Continuous Delivery",
+          "Customer Integration and Cloud Deployment",
+          "Centralized Infrastructure and Cloud Delivery",
+          "Common Interface and Continuous Development"
+      ],
+      "answer": "Continuous Integration and Continuous Delivery"
+      },
+      {
+      "question": "Which of the following is a key principle of DevOps?",
+      "options": [
+          "Collaboration between development and operations teams",
+          "Limiting code reviews",
+          "Manual deployment processes",
+          "Monolithic application design"
+      ],
+      "answer": "Collaboration between development and operations teams"
+      },
+      {
+      "question": "Which of these tools is commonly used for containerization in DevOps?",
+      "options": [
+          "Docker",
+          "Git",
+          "Terraform",
+          "Ansible"
+      ],
+      "answer": "Docker"
+      },
+      {
+      "question": "What is the purpose of a 'configuration management tool' in DevOps?",
+      "options": [
+          "To monitor system performance",
+          "To manage and automate server configurations",
+          "To manage database connections",
+          "To deploy containers"
+      ],
+      "answer": "To manage and automate server configurations"
+      },
+      {
+      "question": "Which of the following is a key feature of Infrastructure as Code (IaC)?",
+      "options": [
+          "Manual server configuration",
+          "Automating infrastructure provisioning using code",
+          "Storing infrastructure on physical servers",
+          "None of the above"
+      ],
+      "answer": "Automating infrastructure provisioning using code"
+      },
+      {
+      "question": "Which tool is commonly used for orchestration in DevOps?",
+      "options": [
+          "Kubernetes",
+          "Terraform",
+          "GitLab",
+          "Prometheus"
+      ],
+      "answer": "Kubernetes"
+      },
+      {
+      "question": "What does 'containerization' refer to in DevOps?",
+      "options": [
+          "Storing data in containers",
+          "Packaging software into containers for consistent deployment",
+          "Monitoring system containers",
+          "Building container hardware"
+      ],
+      "answer": "Packaging software into containers for consistent deployment"
+      },
+      {
+      "question": "Which of these is used for monitoring and logging in a DevOps environment?",
+      "options": [
+          "Prometheus",
+          "Jenkins",
+          "Kubernetes",
+          "Git"
+      ],
+      "answer": "Prometheus"
+      }
+  ],
+  
+  "PowerBI": [
+      {
+      "question": "What is Power BI?",
+      "options": [
+          "A data visualization tool",
+          "A machine learning algorithm",
+          "A web development framework",
+          "A database management system"
+      ],
+      "answer": "A data visualization tool"
+      },
+      {
+      "question": "Which of the following is a feature of Power BI?",
+      "options": [
+          "Data visualization",
+          "Data modeling",
+          "Data sharing",
+          "All of the above"
+      ],
+      "answer": "All of the above"
+      },
+      {
+      "question": "Which type of data source can Power BI connect to?",
+      "options": [
+          "SQL Server",
+          "Excel",
+          "Web services",
+          "All of the above"
+      ],
+      "answer": "All of the above"
+      },
+      {
+      "question": "What is Power Query in Power BI used for?",
+      "options": [
+          "Creating reports",
+          "Connecting to data sources",
+          "Transforming and cleaning data",
+          "Designing dashboards"
+      ],
+      "answer": "Transforming and cleaning data"
+      },
+      {
+      "question": "Which of the following is used to create interactive reports in Power BI?",
+      "options": [
+          "Power BI Desktop",
+          "Power BI Service",
+          "Power BI Report Server",
+          "All of the above"
+      ],
+      "answer": "Power BI Desktop"
+      },
+      {
+      "question": "What is DAX in Power BI?",
+      "options": [
+          "Data Analysis Expressions",
+          "Data Access Expression",
+          "Database Analysis Explorer",
+          "Data Automation Explorer"
+      ],
+      "answer": "Data Analysis Expressions"
+      },
+      {
+      "question": "Which of the following is a visual type available in Power BI?",
+      "options": [
+          "Bar chart",
+          "Line chart",
+          "Pie chart",
+          "All of the above"
+      ],
+      "answer": "All of the above"
+      },
+      {
+      "question": "What is Power BI Service?",
+      "options": [
+          "A cloud-based service for sharing and collaborating on reports",
+          "A desktop application for data modeling",
+          "A tool for creating machine learning models",
+          "A SQL-based data source"
+      ],
+      "answer": "A cloud-based service for sharing and collaborating on reports"
+      },
+      {
+      "question": "Which of the following can Power BI integrate with?",
+      "options": [
+          "Excel",
+          "Azure",
+          "SQL Server",
+          "All of the above"
+      ],
+      "answer": "All of the above"
+      },
+      {
+      "question": "What is the Power BI Gateway used for?",
+      "options": [
+          "To allow data refresh from on-premises data sources",
+          "To deploy reports to the cloud",
+          "To create new dashboards",
+          "To connect to external APIs"
+      ],
+      "answer": "To allow data refresh from on-premises data sources"
+      }
+  ],
+  "Flask": [
+      {
+      "question": "What is Flask?",
+      "options": [
+          "A web framework for Python",
+          "A JavaScript library",
+          "A CSS framework",
+          "A database system"
+      ],
+      "answer": "A web framework for Python"
+      },
+      {
+      "question": "Which of the following is true about Flask?",
+      "options": [
+          "It is a lightweight web framework",
+          "It is a full-stack web framework",
+          "It uses the Model-View-Controller (MVC) architecture",
+          "It does not support web routing"
+      ],
+      "answer": "It is a lightweight web framework"
+      },
+      {
+      "question": "Which command is used to run a Flask application?",
+      "options": [
+          "flask run",
+          "python app.py",
+          "flask start",
+          "python flask.py"
+      ],
+      "answer": "flask run"
+      },
+      {
+      "question": "Which of these is used to define routes in Flask?",
+      "options": [
+          "@app.route",
+          "app.route()",
+          "@route()",
+          "app.add_route()"
+      ],
+      "answer": "@app.route"
+      },
+      {
+      "question": "What is the default port for a Flask application?",
+      "options": [
+          "8080",
+          "5000",
+          "80",
+          "3000"
+      ],
+      "answer": "5000"
+      },
+      {
+      "question": "Which of the following is a template engine used by Flask?",
+      "options": [
+          "Jinja2",
+          "Django templates",
+          "Mustache",
+          "Handlebars"
+      ],
+      "answer": "Jinja2"
+      },
+      {
+      "question": "What does Flask use for routing?",
+      "options": [
+          "URL patterns",
+          "HTML tags",
+          "CSS selectors",
+          "JavaScript functions"
+      ],
+      "answer": "URL patterns"
+      },
+      {
+      "question": "Which of these is commonly used for form handling in Flask?",
+      "options": [
+          "Flask-WTF",
+          "Flask-SQLAlchemy",
+          "Flask-Login",
+          "Flask-Mail"
+      ],
+      "answer": "Flask-WTF"
+      },
+      {
+      "question": "Which of the following is a Flask extension for handling database connections?",
+      "options": [
+          "Flask-SQLAlchemy",
+          "Flask-Migrate",
+          "Flask-WTF",
+          "Flask-Login"
+      ],
+      "answer": "Flask-SQLAlchemy"
+      },
+      {
+      "question": "What is Flask-SQLAlchemy used for?",
+      "options": [
+          "Database integration",
+          "Form validation",
+          "Email handling",
+          "Session management"
+      ],
+      "answer": "Database integration"
+      }
+  ],
+  "Django": [
+      {
+      "question": "What is Django?",
+      "options": [
+          "A full-stack web framework for Python",
+          "A machine learning library",
+          "A web server",
+          "A data analysis tool"
+      ],
+      "answer": "A full-stack web framework for Python"
+      },
+      {
+      "question": "Which architecture does Django follow?",
+      "options": [
+          "Model-View-Template (MVT)",
+          "Model-View-Controller (MVC)",
+          "Model-View-Model (MVM)",
+          "Model-Object-Controller (MOC)"
+      ],
+      "answer": "Model-View-Template (MVT)"
+      },
+      {
+      "question": "What command is used to start a new Django project?",
+      "options": [
+          "django-admin startproject",
+          "django start new",
+          "python manage.py create",
+          "flask new project"
+      ],
+      "answer": "django-admin startproject"
+      },
+      {
+      "question": "What is the default port for a Django development server?",
+      "options": [
+          "5000",
+          "8000",
+          "3000",
+          "8080"
+      ],
+      "answer": "8000"
+      },
+      {
+      "question": "Which file is used to define database models in Django?",
+      "options": [
+          "models.py",
+          "views.py",
+          "urls.py",
+          "settings.py"
+      ],
+      "answer": "models.py"
+      },
+      {
+      "question": "Which of these is used to map URLs to views in Django?",
+      "options": [
+          "urls.py",
+          "views.py",
+          "models.py",
+          "settings.py"
+      ],
+      "answer": "urls.py"
+      },
+      {
+      "question": "Which of the following is used to create forms in Django?",
+      "options": [
+          "Django Forms",
+          "Flask-WTF",
+          "Django REST Framework",
+          "Django Models"
+      ],
+      "answer": "Django Forms"
+      },
+      {
+      "question": "Which of the following is a Django ORM method for retrieving all records from a model?",
+      "options": [
+          "Model.objects.all()",
+          "Model.all()",
+          "Model.objects.get()",
+          "Model.all_records()"
+      ],
+      "answer": "Model.objects.all()"
+      },
+      {
+      "question": "Which of these is a template language used in Django?",
+      "options": [
+          "Django Template Language (DTL)",
+          "Jinja2",
+          "Mako",
+          "Mustache"
+      ],
+      "answer": "Django Template Language (DTL)"
+      },
+      {
+      "question": "Which of these is used to manage static files in Django?",
+      "options": [
+          "STATIC_URL",
+          "MEDIA_URL",
+          "STATICFILES_DIRS",
+          "STATICFILES_STORAGE"
+      ],
+      "answer": "STATIC_URL"
+      }
+  ],
+  
+  "React": [
+      {
+      "question": "What is React?",
+      "options": [
+          "A JavaScript library for building user interfaces",
+          "A JavaScript framework for server-side development",
+          "A CSS framework for styling websites",
+          "A database management system"
+      ],
+      "answer": "A JavaScript library for building user interfaces"
+      },
+      {
+      "question": "Which of the following is used to manage state in React?",
+      "options": [
+          "React Hooks",
+          "React Router",
+          "Redux",
+          "Both React Hooks and Redux"
+      ],
+      "answer": "Both React Hooks and Redux"
+      },
+      {
+      "question": "What is JSX in React?",
+      "options": [
+          "A JavaScript syntax extension for writing HTML in JavaScript",
+          "A JavaScript function for manipulating DOM",
+          "A CSS preprocessor",
+          "A JavaScript module"
+      ],
+      "answer": "A JavaScript syntax extension for writing HTML in JavaScript"
+      },
+      {
+      "question": "Which method is used to render a React component to the DOM?",
+      "options": [
+          "ReactDOM.render()",
+          "React.render()",
+          "DOM.render()",
+          "renderDOM()"
+      ],
+      "answer": "ReactDOM.render()"
+      },
+      {
+      "question": "What is a React component?",
+      "options": [
+          "A function or class that returns UI elements",
+          "A CSS style sheet",
+          "A JavaScript object",
+          "A browser API"
+      ],
+      "answer": "A function or class that returns UI elements"
+      },
+      {
+      "question": "Which of these hooks is used to manage side effects in React?",
+      "options": [
+          "useEffect",
+          "useState",
+          "useReducer",
+          "useContext"
+      ],
+      "answer": "useEffect"
+      },
+      {
+      "question": "Which of the following is used for routing in React?",
+      "options": [
+          "React Router",
+          "React Link",
+          "React Navigation",
+          "React Routing"
+      ],
+      "answer": "React Router"
+      },
+      {
+      "question": "Which of the following is the correct way to define a React functional component?",
+      "options": [
+          "function MyComponent() { return <div></div>; }",
+          "const MyComponent = () => { return <div></div>; }",
+          "class MyComponent extends React.Component { render() { return <div></div>; } }",
+          "All of the above"
+      ],
+      "answer": "All of the above"
+      },
+      {
+      "question": "Which of these lifecycle methods is available in class components?",
+      "options": [
+          "componentDidMount",
+          "useEffect",
+          "useState",
+          "useContext"
+      ],
+      "answer": "componentDidMount"
+      },
+      {
+      "question": "What is the virtual DOM in React?",
+      "options": [
+          "A lightweight copy of the real DOM",
+          "A component that renders the actual DOM",
+          "A JavaScript function",
+          "A state management tool"
+      ],
+      "answer": "A lightweight copy of the real DOM"
+      }
+  ],
+  "Angular": [
+      {
+      "question": "What is Angular?",
+      "options": [
+          "A JavaScript framework for building web applications",
+          "A JavaScript library for UI components",
+          "A CSS framework",
+          "A database management system"
+      ],
+      "answer": "A JavaScript framework for building web applications"
+      },
+      {
+      "question": "Which of the following is used to create components in Angular?",
+      "options": [
+          "ng generate component",
+          "ng new component",
+          "ng create component",
+          "ng add component"
+      ],
+      "answer": "ng generate component"
+      },
+      {
+      "question": "What is the purpose of Angular's two-way data binding?",
+      "options": [
+          "To synchronize data between the model and the view",
+          "To manage user authentication",
+          "To define routing in the application",
+          "To handle HTTP requests"
+      ],
+      "answer": "To synchronize data between the model and the view"
+      },
+      {
+      "question": "Which of these is used for routing in Angular?",
+      "options": [
+          "Angular Router",
+          "React Router",
+          "Vue Router",
+          "Angular Navigation"
+      ],
+      "answer": "Angular Router"
+      },
+      {
+      "question": "What is a module in Angular?",
+      "options": [
+          "A collection of components, services, and other Angular entities",
+          "A routing configuration",
+          "A component lifecycle hook",
+          "A service to handle HTTP requests"
+      ],
+      "answer": "A collection of components, services, and other Angular entities"
+      },
+      {
+      "question": "Which of the following is used for dependency injection in Angular?",
+      "options": [
+          "Angular Injector",
+          "React Context",
+          "Vuex Store",
+          "Redux"
+      ],
+      "answer": "Angular Injector"
+      },
+      {
+      "question": "Which of the following is the Angular command to create a service?",
+      "options": [
+          "ng generate service",
+          "ng create service",
+          "ng add service",
+          "ng new service"
+      ],
+      "answer": "ng generate service"
+      },
+      {
+      "question": "What is the purpose of Angular directives?",
+      "options": [
+          "To modify the DOM",
+          "To create services",
+          "To manage routing",
+          "To handle forms"
+      ],
+      "answer": "To modify the DOM"
+      },
+      {
+      "question": "Which of the following is used to make HTTP requests in Angular?",
+      "options": [
+          "HttpClientModule",
+          "Axios",
+          "Fetch API",
+          "Angular Requests"
+      ],
+      "answer": "HttpClientModule"
+      },
+      {
+      "question": "What is Angular CLI?",
+      "options": [
+          "A command-line interface for Angular development",
+          "A compiler for Angular templates",
+          "A tool for building Angular components",
+          "A tool for testing Angular applications"
+      ],
+      "answer": "A command-line interface for Angular development"
+      }
+  ],
+  "Node.js": [
+      {
+      "question": "What is Node.js?",
+      "options": [
+          "A runtime environment for executing JavaScript outside the browser",
+          "A JavaScript library for front-end development",
+          "A CSS preprocessor",
+          "A database management system"
+      ],
+      "answer": "A runtime environment for executing JavaScript outside the browser"
+      },
+      {
+      "question": "Which of the following is the package manager for Node.js?",
+      "options": [
+          "npm",
+          "yarn",
+          "bower",
+          "composer"
+      ],
+      "answer": "npm"
+      },
+      {
+      "question": "What is the purpose of the Node.js event loop?",
+      "options": [
+          "To handle asynchronous I/O operations",
+          "To compile JavaScript code",
+          "To create HTTP requests",
+          "To manage routing"
+      ],
+      "answer": "To handle asynchronous I/O operations"
+      },
+      {
+      "question": "Which of the following modules is used to create an HTTP server in Node.js?",
+      "options": [
+          "http",
+          "express",
+          "server",
+          "router"
+      ],
+      "answer": "http"
+      },
+      {
+      "question": "Which of these is used to manage routes in Node.js applications?",
+      "options": [
+          "Express.js",
+          "React Router",
+          "Angular Router",
+          "Vue Router"
+      ],
+      "answer": "Express.js"
+      },
+      {
+      "question": "Which of the following is used to handle file operations in Node.js?",
+      "options": [
+          "fs module",
+          "http module",
+          "express module",
+          "url module"
+      ],
+      "answer": "fs module"
+      },
+      {
+      "question": "Which of the following is used to handle JSON data in Node.js?",
+      "options": [
+          "JSON.parse() and JSON.stringify()",
+          "JSON.decode()",
+          "JSON.encode()",
+          "None of the above"
+      ],
+      "answer": "JSON.parse() and JSON.stringify()"
+      },
+      {
+      "question": "What is the purpose of the Node.js 'require' function?",
+      "options": [
+          "To load external modules",
+          "To create new modules",
+          "To parse JSON data",
+          "To handle HTTP requests"
+      ],
+      "answer": "To load external modules"
+      },
+      {
+      "question": "Which of the following is a core module in Node.js?",
+      "options": [
+          "http",
+          "express",
+          "react",
+          "angular"
+      ],
+      "answer": "http"
+      },
+      {
+      "question": "Which of these is used to install packages in Node.js?",
+      "options": [
+          "npm install",
+          "node install",
+          "install npm",
+          "npm add"
+      ],
+      "answer": "npm install"
+      }
+  ],
+  
+  "Express.js": [
+      {
+      "question": "What is Express.js?",
+      "options": [
+          "A web application framework for Node.js",
+          "A CSS framework",
+          "A front-end JavaScript library",
+          "A database management system"
+      ],
+      "answer": "A web application framework for Node.js"
+      },
+      {
+      "question": "Which of the following methods is used to define routes in Express?",
+      "options": [
+          "app.get()",
+          "app.route()",
+          "app.request()",
+          "app.define()"
+      ],
+      "answer": "app.get()"
+      },
+      {
+      "question": "Which of the following is used to handle HTTP requests in Express?",
+      "options": [
+          "Middleware",
+          "Modules",
+          "Services",
+          "Directives"
+      ],
+      "answer": "Middleware"
+      },
+      {
+      "question": "Which method in Express is used to serve static files?",
+      "options": [
+          "express.static()",
+          "app.static()",
+          "static()",
+          "serve.static()"
+      ],
+      "answer": "express.static()"
+      },
+      {
+      "question": "Which of the following is the correct way to install Express in a Node.js project?",
+      "options": [
+          "npm install express",
+          "npm add express",
+          "npm install express.js",
+          "npm add express.js"
+      ],
+      "answer": "npm install express"
+      },
+      {
+      "question": "What is the purpose of the app.use() method in Express?",
+      "options": [
+          "To mount middleware functions",
+          "To define routes",
+          "To handle errors",
+          "To serve static files"
+      ],
+      "answer": "To mount middleware functions"
+      },
+      {
+      "question": "Which of the following is used to handle errors in Express?",
+      "options": [
+          "app.use() with an error-handling middleware",
+          "app.error()",
+          "app.handle()",
+          "express.error()"
+      ],
+      "answer": "app.use() with an error-handling middleware"
+      },
+      {
+      "question": "Which of the following methods is used to handle POST requests in Express?",
+      "options": [
+          "app.post()",
+          "app.put()",
+          "app.get()",
+          "app.patch()"
+      ],
+      "answer": "app.post()"
+      },
+      {
+      "question": "Which of the following is the correct way to define a route in Express?",
+      "options": [
+          "app.get('/path', (req, res) => { res.send('Hello World'); });",
+          "app.route('/path').get((req, res) => { res.send('Hello World'); });",
+          "app.route('/path').use((req, res) => { res.send('Hello World'); });",
+          "Both a and b"
+      ],
+      "answer": "Both a and b"
+      },
+      {
+      "question": "Which module is used for parsing request bodies in Express?",
+      "options": [
+          "body-parser",
+          "express-parser",
+          "url-encoded",
+          "body-parse"
+      ],
+      "answer": "body-parser"
+      }
+  ],
+  "AWS": [
+      {
+      "question": "What does AWS stand for?",
+      "options": [
+          "Amazon Web Services",
+          "Advanced Web Services",
+          "Automated Web Solutions",
+          "Amazon Web Solutions"
+      ],
+      "answer": "Amazon Web Services"
+      },
+      {
+      "question": "Which of the following is a storage service provided by AWS?",
+      "options": [
+          "Amazon S3",
+          "Amazon EC2",
+          "Amazon RDS",
+          "Amazon Lambda"
+      ],
+      "answer": "Amazon S3"
+      },
+      {
+      "question": "What is the purpose of Amazon EC2?",
+      "options": [
+          "To run virtual servers in the cloud",
+          "To store files in the cloud",
+          "To manage databases",
+          "To manage DNS records"
+      ],
+      "answer": "To run virtual servers in the cloud"
+      },
+      {
+      "question": "Which of the following AWS services is used for content delivery?",
+      "options": [
+          "Amazon CloudFront",
+          "Amazon S3",
+          "Amazon EC2",
+          "Amazon Lambda"
+      ],
+      "answer": "Amazon CloudFront"
+      },
+      {
+      "question": "Which of the following AWS services is a managed database service?",
+      "options": [
+          "Amazon RDS",
+          "Amazon EC2",
+          "Amazon S3",
+          "Amazon VPC"
+      ],
+      "answer": "Amazon RDS"
+      },
+      {
+      "question": "What is AWS Lambda used for?",
+      "options": [
+          "Running code without provisioning servers",
+          "Storing files",
+          "Managing DNS records",
+          "Monitoring infrastructure"
+      ],
+      "answer": "Running code without provisioning servers"
+      },
+      {
+      "question": "Which of the following AWS services is used for serverless computing?",
+      "options": [
+          "AWS Lambda",
+          "Amazon EC2",
+          "Amazon S3",
+          "Amazon RDS"
+      ],
+      "answer": "AWS Lambda"
+      },
+      {
+      "question": "Which of the following is the correct way to create a new EC2 instance?",
+      "options": [
+          "Use the AWS Management Console",
+          "Use the AWS CLI",
+          "Use the AWS SDK",
+          "All of the above"
+      ],
+      "answer": "All of the above"
+      },
+      {
+      "question": "What is Amazon VPC used for?",
+      "options": [
+          "Creating isolated networks in the cloud",
+          "Storing files in the cloud",
+          "Running virtual machines",
+          "Managing user authentication"
+      ],
+      "answer": "Creating isolated networks in the cloud"
+      },
+      {
+      "question": "Which of the following is a feature of AWS CloudWatch?",
+      "options": [
+          "Monitoring AWS resources and applications",
+          "Managing databases",
+          "Running serverless code",
+          "Managing storage"
+      ],
+      "answer": "Monitoring AWS resources and applications"
+      }
+  ],
+  "Machine Learning": [
+      {
+        "question": "What is Supervised Learning?",
+        "options": [
+          "Learning from labeled data",
+          "Learning without data",
+          "Learning using unsupervised algorithms",
+          "Learning through reinforcement"
+        ],
+        "answer": "Learning from labeled data"
+      },
+      {
+        "question": "Which algorithm is commonly used in supervised learning?",
+        "options": [
+          "K-Means",
+          "Linear Regression",
+          "K-NN",
+          "DBSCAN"
+        ],
+        "answer": "Linear Regression"
+      },
+      {
+        "question": "What is Overfitting in Machine Learning?",
+        "options": [
+          "When a model learns the training data too well and performs poorly on new data",
+          "When a model learns from too few data points",
+          "When a model underperforms on the training data",
+          "When a model is not trained at all"
+        ],
+        "answer": "When a model learns the training data too well and performs poorly on new data"
+      },
+      {
+        "question": "What is the purpose of a Loss Function?",
+        "options": [
+          "To measure the error in predictions",
+          "To split data into training and test sets",
+          "To select features for training",
+          "To make predictions"
+        ],
+        "answer": "To measure the error in predictions"
+      },
+      {
+        "question": "Which of these is an example of unsupervised learning?",
+        "options": [
+          "K-Means Clustering",
+          "Linear Regression",
+          "Logistic Regression",
+          "Support Vector Machines"
+        ],
+        "answer": "K-Means Clustering"
+      },
+      {
+        "question": "What is the purpose of Feature Engineering?",
+        "options": [
+          "To create meaningful features from raw data",
+          "To split the dataset into training and testing subsets",
+          "To measure model performance",
+          "To prevent overfitting"
+        ],
+        "answer": "To create meaningful features from raw data"
+      },
+      {
+        "question": "Which algorithm is used for classification tasks?",
+        "options": [
+          "Logistic Regression",
+          "K-Means Clustering",
+          "Principal Component Analysis",
+          "Linear Regression"
+        ],
+        "answer": "Logistic Regression"
+      },
+      {
+        "question": "What is Cross-Validation?",
+        "options": [
+          "A technique to prevent overfitting by splitting data into multiple training and test sets",
+          "A technique to tune hyperparameters",
+          "A method for feature selection",
+          "A way to visualize the model's decision boundaries"
+        ],
+        "answer": "A technique to prevent overfitting by splitting data into multiple training and test sets"
+      },
+      {
+        "question": "What does the term 'Gradient Descent' refer to in machine learning?",
+        "options": [
+          "A method for minimizing the loss function",
+          "A technique to increase the model's accuracy",
+          "A method for selecting features",
+          "A technique for splitting data into subsets"
+        ],
+        "answer": "A method for minimizing the loss function"
+      },
+      {
+        "question": "Which of the following is an example of a supervised learning problem?",
+        "options": [
+          "Spam Email Classification",
+          "Market Basket Analysis",
+          "Customer Segmentation",
+          "Dimensionality Reduction"
+        ],
+        "answer": "Spam Email Classification"
+      }
+  ],
+  "Generative AI": [
+      {
+        "question": "What is Generative AI?",
+        "options": [
+          "AI that generates new data",
+          "AI that analyzes existing data",
+          "AI that performs decision-making tasks",
+          "AI that stores data"
+        ],
+        "answer": "AI that generates new data"
+      },
+      {
+        "question": "Which model is primarily used in Generative AI for creating images?",
+        "options": [
+          "Generative Adversarial Networks (GANs)",
+          "Random Forests",
+          "Decision Trees",
+          "Support Vector Machines"
+        ],
+        "answer": "Generative Adversarial Networks (GANs)"
+      },
+      {
+        "question": "What is the primary function of a Variational Autoencoder (VAE)?",
+        "options": [
+          "To generate new data based on learned distribution",
+          "To classify data",
+          "To make predictions on future data",
+          "To reduce dimensionality"
+        ],
+        "answer": "To generate new data based on learned distribution"
+      },
+      {
+        "question": "What is a key feature of GANs?",
+        "options": [
+          "They consist of a generator and a discriminator that work in opposition",
+          "They consist of a single neural network for classification",
+          "They are used for reinforcement learning",
+          "They are specifically designed for time series forecasting"
+        ],
+        "answer": "They consist of a generator and a discriminator that work in opposition"
+      },
+      {
+        "question": "Which of these is an application of Generative AI?",
+        "options": [
+          "Image Generation",
+          "Email Classification",
+          "Time Series Forecasting",
+          "Speech Recognition"
+        ],
+        "answer": "Image Generation"
+      },
+      {
+        "question": "What is the role of a 'generator' in GANs?",
+        "options": [
+          "To create new data that mimics real data",
+          "To classify data into categories",
+          "To reduce the dimensionality of data",
+          "To evaluate the model's performance"
+        ],
+        "answer": "To create new data that mimics real data"
+      },
+      {
+        "question": "Which of these is an important aspect of training GANs?",
+        "options": [
+          "Balanced training between the generator and discriminator",
+          "Only training the discriminator",
+          "Only training the generator",
+          "Training with unsupervised data"
+        ],
+        "answer": "Balanced training between the generator and discriminator"
+      },
+      {
+        "question": "What is the role of the 'discriminator' in GANs?",
+        "options": [
+          "To evaluate the authenticity of the generated data",
+          "To generate new data",
+          "To classify data into categories",
+          "To reduce the dimensionality of data"
+        ],
+        "answer": "To evaluate the authenticity of the generated data"
+      },
+      {
+        "question": "What is the primary use of Transformers in Generative AI?",
+        "options": [
+          "For natural language processing tasks",
+          "For clustering data",
+          "For dimensionality reduction",
+          "For reinforcement learning"
+        ],
+        "answer": "For natural language processing tasks"
+      },
+      {
+        "question": "Which of these is NOT a type of Generative Model?",
+        "options": [
+          "Generative Adversarial Networks",
+          "Variational Autoencoders",
+          "Decision Trees",
+          "Transformer Models"
+        ],
+        "answer": "Decision Trees"
+      }
+  ],
+
+  "C++": [
+      {
+        "question": "What is C++?",
+        "options": [
+          "A high-level programming language",
+          "A low-level programming language",
+          "A database management system",
+          "A type of operating system"
+        ],
+        "answer": "A high-level programming language"
+      },
+      {
+        "question": "Which of the following is used to declare a constant in C++?",
+        "options": [
+          "const",
+          "final",
+          "static",
+          "immutable"
+        ],
+        "answer": "const"
+      },
+      {
+        "question": "Which of the following is the correct way to create a pointer in C++?",
+        "options": [
+          "int* ptr;",
+          "ptr int;",
+          "int ptr*;",
+          "int& ptr;"
+        ],
+        "answer": "int* ptr;"
+      },
+      {
+        "question": "Which of the following is used to include standard libraries in C++?",
+        "options": [
+          "#include <iostream>",
+          "#include iostream",
+          "#import iostream",
+          "include iostream"
+        ],
+        "answer": "#include <iostream>"
+      },
+      {
+        "question": "What is the correct syntax for a for loop in C++?",
+        "options": [
+          "for (int i = 0; i < 10; i++)",
+          "for (int i = 0; i < 10)",
+          "for i = 0 to 10",
+          "for (i = 0; i < 10; i++)"
+        ],
+        "answer": "for (int i = 0; i < 10; i++)"
+      },
+      {
+        "question": "Which of the following is a feature of C++?",
+        "options": [
+          "Object-Oriented Programming",
+          "Procedural Programming",
+          "Memory Management",
+          "All of the above"
+        ],
+        "answer": "All of the above"
+      },
+      {
+        "question": "What does the 'new' keyword do in C++?",
+        "options": [
+          "Allocates memory dynamically",
+          "Creates a new function",
+          "Creates a new class",
+          "Allocates memory statically"
+        ],
+        "answer": "Allocates memory dynamically"
+      },
+      {
+        "question": "Which of the following is used to handle exceptions in C++?",
+        "options": [
+          "try-catch",
+          "throw-catch",
+          "error-except",
+          "try-except"
+        ],
+        "answer": "try-catch"
+      },
+      {
+        "question": "Which of the following is a valid data type in C++?",
+        "options": [
+          "int",
+          "char",
+          "float",
+          "All of the above"
+        ],
+        "answer": "All of the above"
+      },
+      {
+        "question": "What is the output of the following code: 'cout << 2 + 3 * 4;'?",
+        "options": [
+          "14",
+          "20",
+          "11",
+          "6"
+        ],
+        "answer": "14"
+      }
+  ]
+}

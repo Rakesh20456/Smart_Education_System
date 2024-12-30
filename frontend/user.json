@@ -1,0 +1,25 @@
+{
+    "name": "Rakesh",
+    "email": "rishirakesh587@gmail.com",
+    "mock": 5,
+    "mcqs": 35,
+    "programs" : [
+        {
+            "programming" : "C",
+            "count" : 15
+        }, {
+            "programming" : "Python",
+            "count" : 13
+        },{
+            "programming" : "Java",
+            "count" : 8
+        },{
+            "programming" : "HTML",
+            "count" : 12
+        },{
+            "programming" : "Javascript",
+            "count" : 7
+        }
+    ], 
+    "points": 195
+}

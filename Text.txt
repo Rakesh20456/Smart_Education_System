@@ -1,0 +1,16 @@
+I’m Rakesh, Currently pursuing my Artificial Intelligence and Data Science at KNCET. I’m passionate about technology and like to solve real-world problems using AI and web technologies. I’ve worked on many projects on these domain. Along with my technical skills, I’m always eager to learn new things and improve my abilities to make a positive impact through technology.
+
+
+Certainly! One notable project where I utilized HTML5, CSS3, and JavaScript was when I worked on developing a smart education platform. The goal was to create an interactive and personalized learning experience for students.Students often struggle with accessing content that suits their individual learning pace. Many platforms offer static learning paths that don’t adapt to the needs of different students. I built an AI-powered personalized learning dashboard using a combination of HTML5, CSS3, and JavaScript.
+
+Completion Rate: The percentage of students who completed their assigned learning paths. Higher completion rates indicated that the adaptive learning feature was effective in keeping students engaged. Average Time Spent per Module: This tracked how long students spent on each topic or module. If students spent significantly more or less time than expected, it provided insight into the difficulty level or engagement of the content. Improvement in Quiz Scores: The platform tracked quiz scores over time, measuring how much students improved after personalized recommendations. A steady increase in scores suggested that the platform was effectively guiding students toward areas that needed attention.
+
+Project: Real-time Video Tracking of Moving Objects
+Objective: I worked on a computer vision project where the goal was to track the movement of colored balls across quadrants in a video. The system needed to detect entry and exit events in each quadrant and log timestamps for those events.
+
+Challenges:
+
+Real-time object tracking
+Accurately determining which quadrant the object was in at each frame
+Handling different lighting conditions and ball speeds
+Logging data in a structured way

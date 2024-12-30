@@ -1,0 +1,1321 @@
+{
+    "Blockchain": {
+        "Basics of Blockchain": {
+            "What is Blockchain?": [
+                "Definition and Overview",
+                "Components of Blockchain: Blocks, Transactions, Ledger",
+                "Types of Blockchain: Public, Private, Consortium"
+            ],
+            "Key Features": [
+                "Decentralization",
+                "Immutability",
+                "Transparency and Security"
+            ],
+            "Cryptographic Foundations": [
+                "Hash Functions (SHA-256, Keccak)",
+                "Digital Signatures (ECDSA, RSA)",
+                "Consensus Mechanisms (Proof of Work, Proof of Stake)"
+            ]
+        },
+        "Core Concepts of Blockchain": {
+            "Blockchain Architecture": [
+                "Structure of a Block (Header, Data, Hash)",
+                "Merkle Trees",
+                "Peer-to-Peer Network"
+            ],
+            "Smart Contracts": [
+                "Definition and Purpose",
+                "Languages for Smart Contracts (Solidity, Vyper)",
+                "Applications in Decentralized Finance (DeFi)"
+            ],
+            "Consensus Algorithms": [
+                "Proof of Work (Bitcoin, Ethereum 1.0)",
+                "Proof of Stake (Ethereum 2.0, Cardano)",
+                "Delegated Proof of Stake (EOS, TRON)",
+                "Byzantine Fault Tolerance (Hyperledger Fabric)"
+            ],
+            "Tokenomics": [
+                "Types of Tokens (Utility, Security, Governance)",
+                "Token Standards (ERC-20, ERC-721, BEP-20)",
+                "Initial Coin Offerings (ICOs) and Token Sales"
+            ]
+        },
+        "Blockchain Tools and Frameworks": {
+            "Blockchain Development Tools": [
+                "Truffle Suite (Development Framework)",
+                "Ganache (Blockchain Emulator)",
+                "MetaMask (Wallet Integration)"
+            ],
+            "Platforms and Protocols": [
+                "Ethereum (Smart Contracts and DApps)",
+                "Hyperledger Fabric (Permissioned Blockchain)",
+                "Polkadot and Cosmos (Interoperability Solutions)"
+            ],
+            "Data Storage and Analysis": [
+                "IPFS (InterPlanetary File System)",
+                "BigchainDB (Blockchain Database)",
+                "Blockchain Explorers (Etherscan, Blockchair)"
+            ]
+        },
+        "Applications of Blockchain": {
+            "Cryptocurrencies": [
+                "Bitcoin (Digital Currency)",
+                "Ethereum (Smart Contracts and DeFi)",
+                "Altcoins (Litecoin, Ripple, Dogecoin)"
+            ],
+            "Supply Chain Management": [
+                "Provenance Tracking",
+                "Smart Contracts for Automated Workflows",
+                "Anti-Counterfeiting Measures"
+            ],
+            "Healthcare": [
+                "Patient Data Management",
+                "Drug Traceability",
+                "Clinical Trials and Research"
+            ],
+            "Other Applications": [
+                "Voting Systems",
+                "Real Estate Transactions",
+                "Intellectual Property Protection"
+            ]
+        },
+        "Advanced Topics in Blockchain": {
+            "Layer 2 Solutions": [
+                "State Channels (Lightning Network)",
+                "Rollups (Optimistic, zk-Rollups)",
+                "Sidechains (Polygon, Loom Network)"
+            ],
+            "Scalability Challenges": [
+                "Sharding",
+                "Blockchain Trilemma (Scalability, Security, Decentralization)"
+            ],
+            "Interoperability": [
+                "Cross-Chain Communication (Polkadot, Cosmos)",
+                "Atomic Swaps",
+                "Blockchain Bridges"
+            ],
+            "Privacy and Security": [
+                "Zero-Knowledge Proofs (zk-SNARKs, zk-STARKs)",
+                "Homomorphic Encryption",
+                "Secure Multi-Party Computation"
+            ],
+            "Decentralized Autonomous Organizations (DAOs)": [
+                "Definition and Use Cases",
+                "Governance Mechanisms",
+                "Challenges in Implementation"
+            ]
+        }
+    },
+  
+    "Python": {
+        "Basics of Python": {
+            "Introduction to Python": [
+                "History and Versions",
+                "Applications of Python",
+                "Installing and Setting Up Python Environment"
+            ],
+            "Data Types and Variables": [
+                "Primitive Types: int, float, str, bool",
+                "Collections: list, tuple, dict, set",
+                "Dynamic Typing and Type Casting"
+            ],
+            "Control Flow": [
+                "Conditional Statements (if, elif, else)",
+                "Loops (for, while)",
+                "Break, Continue, and Pass Statements"
+            ],
+            "Functions and Modules": [
+                "Defining and Calling Functions",
+                "Default and Keyword Arguments",
+                "Importing and Using Modules"
+            ],
+            "Basic Input/Output": [
+                "Reading Input with input()",
+                "Printing Output with print()",
+                "Formatted Strings (f-strings)"
+            ]
+        },
+        "Core Concepts of Python": {
+            "Object-Oriented Programming": [
+                "Classes and Objects",
+                "Inheritance and Polymorphism",
+                "Magic Methods and Dunder Methods"
+            ],
+            "Data Manipulation": [
+                "List Comprehensions",
+                "Dictionary Comprehensions",
+                "Sorting and Filtering Data"
+            ],
+            "Error and Exception Handling": [
+                "try-except Blocks",
+                "Raising and Handling Custom Exceptions",
+                "finally and else in Exception Handling"
+            ]
+        },
+        "Advanced Python": {
+            "File Handling": [
+                "Reading and Writing Files",
+                "Working with CSV and JSON",
+                "Context Managers"
+            ],
+            "Iterators and Generators": [
+                "Creating Iterators",
+                "Using yield in Generators",
+                "Applications of Generators"
+            ],
+            "Asynchronous Programming": [
+                "Introduction to asyncio",
+                "Coroutines and Event Loops",
+                "Concurrency with async/await"
+            ]
+        }
+    },
+    "Java": {
+        "Basics of Java": {
+            "Introduction to Java": [
+                "History and Features",
+                "Installing and Setting Up JDK",
+                "Compiling and Running Java Programs"
+            ],
+            "Data Types and Variables": [
+                "Primitive Types: byte, short, int, long, float, double, char, boolean",
+                "Reference Types",
+                "Type Conversion and Casting"
+            ],
+            "Control Flow Statements": [
+                "if-else and switch",
+                "for, while, and do-while Loops",
+                "break and continue"
+            ],
+            "Methods and Classes": [
+                "Defining and Using Methods",
+                "Static and Instance Methods",
+                "Method Overloading"
+            ],
+            "Basic Input/Output": [
+                "Using Scanner for Input",
+                "Printing with System.out.println()",
+                "Formatting Strings"
+            ]
+        },
+        "Core Concepts of Java": {
+            "Object-Oriented Programming": [
+                "Classes and Objects",
+                "Inheritance and Interfaces",
+                "Polymorphism and Encapsulation"
+            ],
+            "Collections Framework": [
+                "List, Set, and Map Interfaces",
+                "ArrayList, HashMap, HashSet",
+                "Iterating Over Collections"
+            ],
+            "Exception Handling": [
+                "try-catch-finally Blocks",
+                "Throwing and Catching Exceptions",
+                "Creating Custom Exceptions"
+            ]
+        },
+        "Advanced Java": {
+            "Multithreading and Concurrency": [
+                "Threads and Runnable Interface",
+                "Synchronization",
+                "Concurrency Utilities"
+            ],
+            "JVM and Performance": [
+                "JVM Architecture",
+                "Garbage Collection",
+                "Optimizing Java Applications"
+            ],
+            "File I/O": [
+                "File Handling with java.io",
+                "BufferedReader and BufferedWriter",
+                "Serialization"
+            ]
+        }
+    },
+    "R": {
+        "Basics of R": {
+            "Introduction to R": [
+                "History and Features",
+                "Installing and Setting Up R",
+                "RStudio Overview"
+            ],
+            "Data Types and Structures": [
+                "Vectors, Matrices, Arrays",
+                "Data Frames and Lists",
+                "Factors and Strings"
+            ],
+            "Control Flow Statements": [
+                "if-else and switch",
+                "for, while, and repeat Loops",
+                "Break and Next Statements"
+            ],
+            "Functions in R": [
+                "Defining and Calling Functions",
+                "Default Arguments",
+                "Anonymous Functions"
+            ]
+        },
+        "Core Concepts of R": {
+            "Data Manipulation": [
+                "Using dplyr for Data Wrangling",
+                "Reshaping Data with tidyr",
+                "Merging and Joining Data Frames"
+            ],
+            "Visualization": [
+                "Basic Plots with Base R",
+                "Advanced Plots with ggplot2",
+                "Interactive Visualizations with shiny"
+            ],
+            "Statistical Modeling": [
+                "Linear Regression",
+                "Logistic Regression",
+                "Time Series Analysis"
+            ]
+        },
+        "Advanced R": {
+            "Big Data and High-Performance Computing": [
+                "Parallel Computing with foreach",
+                "Using bigmemory for Large Datasets",
+                "Integration with SparkR"
+            ],
+            "Reporting and Reproducibility": [
+                "Dynamic Documents with R Markdown",
+                "Reproducible Research",
+                "Integration with LaTeX"
+            ]
+        }
+    },
+    "C": {
+        "Basics of C": {
+            "Introduction to C": [
+                "History and Applications",
+                "Installing and Setting Up a C Compiler",
+                "Structure of a C Program"
+            ],
+            "Data Types and Variables": [
+                "Primitive Types: int, float, char, double",
+                "Type Modifiers (short, long, signed, unsigned)",
+                "Constants and Enumerations"
+            ],
+            "Control Flow Statements": [
+                "if-else and switch",
+                "for, while, and do-while Loops",
+                "break, continue, and goto"
+            ],
+            "Functions in C": [
+                "Defining and Calling Functions",
+                "Passing Arguments (By Value and By Reference)",
+                "Recursion"
+            ]
+        },
+        "Core Concepts of C": {
+            "Pointers": [
+                "Pointer Basics and Arithmetic",
+                "Pointers and Arrays",
+                "Pointers to Functions"
+            ],
+            "Memory Management": [
+                "Dynamic Memory Allocation (malloc, calloc, free)",
+                "Memory Leaks and Best Practices"
+            ],
+            "File Handling": [
+                "File Input and Output",
+                "Using fopen, fclose, fread, fwrite",
+                "Text and Binary Files"
+            ]
+        },
+        "Advanced C": {
+            "Data Structures": [
+                "Arrays, Linked Lists, Stacks, Queues",
+                "Trees and Graphs",
+                "Hashing"
+            ],
+            "Preprocessor Directives": [
+                "#define, #include, #ifdef",
+                "Macros and Conditional Compilation"
+            ],
+            "Optimization": [
+                "Code Optimization Techniques",
+                "Profiling and Debugging Tools"
+            ]
+        }
+    },
+    "C++": {
+        "Basics of C++": {
+            "Introduction to C++": [
+                "History and Features",
+                "Installing and Setting Up a C++ Compiler",
+                "Structure of a C++ Program"
+            ],
+            "Data Types and Variables": [
+                "Primitive and Derived Types",
+                "Type Modifiers",
+                "Constants and Enumerations"
+            ],
+            "Control Flow Statements": [
+                "if-else and switch",
+                "for, while, and do-while Loops",
+                "break, continue, and goto"
+            ],
+            "Functions in C++": [
+                "Function Overloading",
+                "Inline Functions",
+                "Default and Constant Arguments"
+            ]
+        },
+        "Core Concepts of C++": {
+            "Object-Oriented Programming": [
+                "Classes and Objects",
+                "Inheritance, Polymorphism, Encapsulation",
+                "Virtual Functions and Abstract Classes"
+            ],
+            "Templates": [
+                "Function Templates",
+                "Class Templates",
+                "STL Containers and Algorithms"
+            ],
+            "Exception Handling": [
+                "try-catch Blocks",
+                "Standard Exceptions",
+                "Custom Exceptions"
+            ]
+        },
+        "Advanced C++": {
+            "Advanced Data Structures": [
+                "Binary Trees, Heaps, Graphs",
+                "STL Advanced Usage",
+                "Multimap and Multiset"
+            ],
+            "Concurrency": [
+                "Threads and Mutex",
+                "Locks and Condition Variables",
+                "Concurrency Libraries"
+            ],
+            "Performance Optimization": [
+                "Code Optimization Techniques",
+                "Memory Management Best Practices"
+            ]
+        }
+    },
+    "Big Data": {
+            "Basics of Big Data": {
+                "Introduction to Big Data": [
+                    "Definition and Characteristics of Big Data",
+                    "Types of Big Data (Structured, Unstructured, Semi-structured)",
+                    "Big Data Technologies Overview"
+                ],
+                "Data Storage and Processing": [
+                    "Hadoop Ecosystem",
+                    "HDFS (Hadoop Distributed File System)",
+                    "MapReduce Programming Model"
+                ],
+                "Big Data Tools": [
+                    "Apache Spark Overview",
+                    "Apache Kafka for Real-Time Data",
+                    "NoSQL Databases (Cassandra, MongoDB)"
+                ]
+            },
+            "Core Concepts of Big Data": {
+                "Data Management": [
+                    "Data Governance and Quality",
+                    "Data Lakes vs Data Warehouses",
+                    "ETL Process in Big Data"
+                ],
+                "Data Analytics": [
+                    "Batch vs Stream Processing",
+                    "Data Mining and Predictive Analytics",
+                    "Machine Learning in Big Data"
+                ],
+                "Big Data Security": [
+                    "Data Encryption and Access Control",
+                    "Securing Big Data Environments",
+                    "Compliance and Regulatory Standards"
+                ]
+            },
+            "Advanced Big Data": {
+                "Advanced Tools and Frameworks": [
+                    "Apache Flink for Real-Time Processing",
+                    "Hadoop YARN for Resource Management",
+                    "Graph Databases (Neo4j)"
+                ],
+                "Big Data Architectures": [
+                    "Lambda and Kappa Architectures",
+                    "Microservices Architecture in Big Data",
+                    "Serverless Computing for Big Data"
+                ]
+            }
+        },
+    "Deep Learning": {
+        "Basics of Deep Learning": {
+            "Introduction to Deep Learning": [
+                "Neural Networks Overview",
+                "History of Deep Learning",
+                "Applications of Deep Learning"
+            ],
+            "Types of Neural Networks": [
+                "Feedforward Neural Networks (FNN)",
+                "Convolutional Neural Networks (CNN)",
+                "Recurrent Neural Networks (RNN)"
+            ],
+            "Activation Functions": [
+                "Sigmoid, Tanh, ReLU",
+                "Softmax Function",
+                "Leaky ReLU and Parametric ReLU"
+            ]
+        },
+        "Core Concepts of Deep Learning": {
+            "Training Deep Learning Models": [
+                "Gradient Descent and Backpropagation",
+                "Loss Functions",
+                "Overfitting and Underfitting"
+            ],
+            "Optimizers and Learning Rates": [
+                "SGD, Adam, RMSProp",
+                "Learning Rate Scheduling",
+                "Batch Normalization"
+            ],
+            "Transfer Learning": [
+                "Using Pre-trained Models",
+                "Fine-tuning for Specific Tasks",
+                "Applications of Transfer Learning"
+            ]
+        },
+        "Advanced Deep Learning": {
+            "Generative Models": [
+                "Generative Adversarial Networks (GANs)",
+                "Variational Autoencoders (VAEs)",
+                "Applications of GANs"
+            ],
+            "Reinforcement Learning": [
+                "Markov Decision Processes (MDP)",
+                "Q-Learning and Deep Q-Networks (DQN)",
+                "Policy Gradient Methods"
+            ],
+            "Deep Learning Frameworks": [
+                "TensorFlow",
+                "PyTorch",
+                "Keras"
+            ]
+        }
+    },
+    "DevOps": {
+        "Basics of DevOps": {
+            "Introduction to DevOps": [
+                "What is DevOps?",
+                "DevOps Lifecycle",
+                "Benefits of DevOps"
+            ],
+            "Version Control Systems": [
+                "Git Basics",
+                "GitHub and GitLab",
+                "Branching and Merging"
+            ],
+            "Continuous Integration and Continuous Deployment (CI/CD)": [
+                "Jenkins for Automation",
+                "GitLab CI/CD",
+                "Automating Testing and Deployment"
+            ]
+        },
+        "Core Concepts of DevOps": {
+            "Infrastructure as Code": [
+                "Using Terraform for IaC",
+                "Ansible for Configuration Management",
+                "Puppet and Chef Overview"
+            ],
+            "Containerization and Virtualization": [
+                "Docker Containers",
+                "Kubernetes for Orchestration",
+                "Virtual Machines vs Containers"
+            ],
+            "Monitoring and Logging": [
+                "Prometheus for Monitoring",
+                "ELK Stack for Logging",
+                "Grafana for Visualization"
+            ]
+        },
+        "Advanced DevOps": {
+            "Microservices Architecture": [
+                "Building Microservices with Docker",
+                "Kubernetes for Microservices",
+                "Service Mesh with Istio"
+            ],
+            "DevOps Security (DevSecOps)": [
+                "Security Automation in CI/CD",
+                "Container Security Best Practices",
+                "Vulnerability Scanning"
+            ],
+            "Cloud Computing in DevOps": [
+                "AWS DevOps Tools",
+                "Azure DevOps Services",
+                "Google Cloud DevOps Solutions"
+            ]
+        }
+    },
+    "Tableau": {
+        "Basics of Tableau": {
+            "Introduction to Tableau": [
+                "What is Tableau?",
+                "Tableau Versions Overview",
+                "Setting Up Tableau Desktop"
+            ],
+            "Data Connection and Preparation": [
+                "Connecting to Data Sources",
+                "Data Blending and Joins",
+                "Data Cleaning with Tableau Prep"
+            ],
+            "Creating Visualizations": [
+                "Basic Charts and Graphs",
+                "Creating Dashboards",
+                "Using Filters and Parameters"
+            ]
+        },
+        "Core Concepts of Tableau": {
+            "Advanced Visualizations": [
+                "Heat Maps, Scatter Plots, and Tree Maps",
+                "Geospatial Mapping",
+                "Dual-Axis and Combined Charts"
+            ],
+            "Data Analytics and Calculations": [
+                "Table Calculations",
+                "Level of Detail (LOD) Expressions",
+                "Aggregations and Quick Table Calculations"
+            ],
+            "Interactivity in Dashboards": [
+                "Actions and Filters",
+                "Storytelling with Tableau",
+                "Dashboard Performance Optimization"
+            ]
+        },
+        "Advanced Tableau": {
+            "Advanced Analytics": [
+                "Forecasting and Trend Lines",
+                "Cluster Analysis and Predictive Modeling",
+                "Statistical Calculations"
+            ],
+            "Tableau Server and Online": [
+                "Publishing and Sharing Dashboards",
+                "User Permissions and Security",
+                "Tableau Server Administration"
+            ]
+        }
+    },
+    "Power BI": {
+        "Basics of Power BI": {
+            "Introduction to Power BI": [
+                "Overview of Power BI Tools",
+                "Power BI Desktop and Power BI Service",
+                "Installing Power BI"
+            ],
+            "Data Import and Transformation": [
+                "Connecting to Data Sources",
+                "Using Power Query for Data Transformation",
+                "Cleaning and Shaping Data"
+            ],
+            "Creating Visualizations": [
+                "Basic Charts and Visuals",
+                "Using Power BI Visualizations",
+                "Custom Visuals and Marketplace"
+            ]
+        },
+        "Core Concepts of Power BI": {
+            "Data Modeling": [
+                "Creating Relationships and Data Models",
+                "Star Schema vs Snowflake Schema",
+                "Using DAX for Calculations"
+            ],
+            "Advanced Visualizations": [
+                "Using KPIs and Custom Visuals",
+                "Power BI Themes and Customization",
+                "Conditional Formatting"
+            ],
+            "Interactivity and Reports": [
+                "Creating Interactive Dashboards",
+                "Drill-through and Drill-down",
+                "Using Bookmarks and Selections"
+            ]
+        },
+        "Advanced Power BI": {
+            "Advanced Analytics": [
+                "Time Intelligence with DAX",
+                "Forecasting and Regression Analysis",
+                "What-If Analysis"
+            ],
+            "Power BI Service": [
+                "Publishing Reports to Power BI Service",
+                "Power BI Workspace Management",
+                "Power BI Dataflows and PowerApps Integration"
+            ]
+        }
+    },
+        
+    "Flask": {
+        "Basics of Flask": {
+            "Introduction to Flask": [
+                "What is Flask?",
+                "Installing Flask",
+                "Setting Up a Flask Project",
+                "Flask Project Structure"
+            ],
+            "Routing and Views": [
+                "Defining Routes and Views",
+                "Dynamic URL Building",
+                "HTTP Methods (GET, POST, etc.)",
+                "Route Parameters and Query Strings"
+            ],
+            "Templates and Static Files": [
+                "Using Jinja2 Templates",
+                "Serving Static Files",
+                "Template Inheritance",
+                "Using Flask-Assets for Managing Static Files"
+            ],
+            "Form Handling": [
+                "Creating Forms in Flask",
+                "Validating Form Data",
+                "Handling Form Submission",
+                "Flask-WTF for CSRF Protection"
+            ]
+        },
+        "Core Concepts of Flask": {
+            "Request and Response": [
+                "Request Object in Flask",
+                "Working with JSON Data",
+                "Creating Responses",
+                "Handling File Uploads"
+            ],
+            "Database Integration": [
+                "Using SQLAlchemy for Database Models",
+                "Creating and Managing Databases",
+                "Database Migrations with Flask-Migrate",
+                "ORM Queries with SQLAlchemy"
+            ],
+            "Session and Authentication": [
+                "Session Management in Flask",
+                "Implementing User Authentication",
+                "Flask-Login for User Sessions",
+                "OAuth Integration with Flask-OAuthlib"
+            ]
+        },
+        "Advanced Flask": {
+            "RESTful APIs with Flask": [
+                "Building REST APIs with Flask-RESTful",
+                "Handling API Requests and Responses",
+                "API Authentication (JWT, OAuth)",
+                "Versioning APIs"
+            ],
+            "Flask Deployment": [
+                "Deploying Flask Apps to Heroku",
+                "Dockerizing Flask Applications",
+                "Configuring Production Environments",
+                "Setting up Flask with Nginx and Gunicorn"
+            ]
+        }
+    },
+    "Django": {
+        "Basics of Django": {
+            "Introduction to Django": [
+                "What is Django?",
+                "Installing Django",
+                "Setting Up a Django Project",
+                "Understanding Django Project Structure"
+            ],
+            "Models and Databases": [
+                "Creating Models",
+                "Database Migrations",
+                "Working with Django ORM",
+                "Advanced Queries with Django ORM"
+            ],
+            "Views and Templates": [
+                "Creating Views",
+                "Using Django Templates",
+                "Template Inheritance",
+                "Using Template Tags"
+            ],
+            "URL Routing": [
+                "Defining URL Patterns",
+                "URL Mapping to Views",
+                "Dynamic URLs in Django",
+                "Using Named URLs for Dynamic Routing"
+            ]
+        },
+        "Core Concepts of Django": {
+            "Forms and Validation": [
+                "Creating Forms with Django",
+                "Form Validation",
+                "Handling Form Submissions",
+                "Using ModelForms"
+            ],
+            "Authentication and Authorization": [
+                "User Authentication",
+                "Permission and Group Management",
+                "Implementing Login and Logout",
+                "Django-Allauth for Social Authentication"
+            ],
+            "Django Admin": [
+                "Using Django Admin Panel",
+                "Customizing the Admin Interface",
+                "Admin Actions and Permissions"
+            ]
+        },
+        "Advanced Django": {
+            "RESTful APIs with Django": [
+                "Building APIs with Django REST Framework",
+                "Serialization and Deserialization",
+                "Handling Authentication in APIs (JWT, OAuth)",
+                "API Pagination and Filtering"
+            ],
+            "Django Deployment": [
+                "Deploying Django Apps on AWS",
+                "Using Docker with Django",
+                "Configuring Production Settings",
+                "Setting up CI/CD for Django with GitLab or GitHub Actions"
+            ]
+        }
+    },
+    "React.js": {
+        "Basics of React.js": {
+            "Introduction to React": [
+                "What is React?",
+                "Setting Up a React Project",
+                "Understanding JSX",
+                "React Development Tools (Chrome Extension)"
+            ],
+            "Components and Props": [
+                "Creating Functional and Class Components",
+                "Using Props in React",
+                "Component Hierarchy",
+                "PropTypes for Prop Validation"
+            ],
+            "State and Lifecycle": [
+                "Using State in Components",
+                "Lifecycle Methods in Class Components",
+                "Using Hooks (useState, useEffect)",
+                "State Management with useContext"
+            ],
+            "Handling Events": [
+                "Handling User Input",
+                "Event Binding in React",
+                "Form Handling",
+                "Controlled vs Uncontrolled Components"
+            ]
+        },
+        "Core Concepts of React.js": {
+            "React Router": [
+                "Setting Up React Router",
+                "Defining Routes and Links",
+                "Nested Routes and Dynamic Routing",
+                "Route Guards and Redirects"
+            ],
+            "State Management": [
+                "State Management with Context API",
+                "State Management with Redux",
+                "Connecting React to Redux Store",
+                "Redux Middleware (Thunk, Saga)"
+            ],
+            "Effect Hook and Side Effects": [
+                "Using useEffect Hook",
+                "Handling Side Effects in React",
+                "Fetching Data with useEffect",
+                "Cleaning Up Side Effects"
+            ]
+        },
+        "Advanced React.js": {
+            "Performance Optimization": [
+                "React.memo for Performance",
+                "Code Splitting in React",
+                "Lazy Loading Components",
+                "React Suspense"
+            ],
+            "Testing React Applications": [
+                "Unit Testing with Jest",
+                "Testing Components with React Testing Library",
+                "Mocking and Spying in Tests",
+                "Test-Driven Development (TDD)"
+            ]
+        }
+    },
+    "Angular.js": {
+        "Basics of Angular.js": {
+            "Introduction to Angular": [
+                "What is Angular?",
+                "Setting Up Angular Environment",
+                "Understanding Modules and Components",
+                "Angular CLI for Project Setup"
+            ],
+            "Components and Templates": [
+                "Creating Components in Angular",
+                "Binding Data with Templates",
+                "Event Handling in Templates",
+                "Two-Way Data Binding"
+            ],
+            "Directives and Pipes": [
+                "Built-in Directives in Angular",
+                "Creating Custom Directives",
+                "Using Pipes for Data Transformation",
+                "AsyncPipe for Handling Async Data"
+            ],
+            "Services and Dependency Injection": [
+                "Creating and Using Services",
+                "Understanding Dependency Injection",
+                "Injecting Services into Components",
+                "Providing Services with NgModule"
+            ]
+        },
+        "Core Concepts of Angular.js": {
+            "Routing in Angular": [
+                "Setting Up Angular Router",
+                "Defining Routes and Navigation",
+                "Nested Routing in Angular",
+                "Lazy Loading Modules"
+            ],
+            "Forms and Validation": [
+                "Template-Driven Forms",
+                "Reactive Forms",
+                "Form Validation and Error Handling",
+                "Custom Form Validators"
+            ],
+            "Observables and RxJS": [
+                "Understanding Observables",
+                "Using RxJS Operators",
+                "Handling Async Data with Observables",
+                "Subjects and BehaviorSubjects"
+            ]
+        },
+        "Advanced Angular.js": {
+            "Performance Optimization": [
+                "Lazy Loading Modules",
+                "Change Detection Strategy",
+                "Ahead-of-Time Compilation (AOT)",
+                "OnPush Change Detection"
+            ],
+            "Testing Angular Applications": [
+                "Unit Testing with Jasmine",
+                "Integration Testing with Angular Testing Library",
+                "Mocking Services in Tests",
+                "End-to-End Testing with Protractor"
+            ]
+        }
+    },
+    "Node.js": {
+        "Basics of Node.js": {
+            "Introduction to Node.js": [
+                "What is Node.js?",
+                "Setting Up Node.js Environment",
+                "Understanding Node.js Architecture",
+                "Node.js REPL"
+            ],
+            "Modules in Node.js": [
+                "Built-in Modules (fs, http, path)",
+                "Creating Custom Modules",
+                "Using npm for Package Management",
+                "Using External Packages (Express, Axios)"
+            ],
+            "Asynchronous Programming": [
+                "Callbacks and Promises",
+                "Async/Await in Node.js",
+                "Handling Errors in Async Code",
+                "Error-First Callback Pattern"
+            ],
+            "File Handling": [
+                "Reading and Writing Files",
+                "Working with Streams",
+                "File System Operations",
+                "Handling Large Files with Streams"
+            ]
+        },
+        "Core Concepts of Node.js": {
+            "Event-Driven Programming": [
+                "Event Loop in Node.js",
+                "Creating Event Emitters",
+                "Handling Events in Node.js",
+                "Event-Driven vs Threaded Model"
+            ],
+            "Web Servers with Node.js": [
+                "Creating HTTP Servers",
+                "Routing in Node.js",
+                "Serving Static Files",
+                "Setting Up SSL for Secure Connections"
+            ],
+            "Database Integration": [
+                "Connecting to MongoDB with Mongoose",
+                "Using MySQL with Node.js",
+                "Working with NoSQL Databases",
+                "Database Connection Pooling"
+            ]
+        },
+        "Advanced Node.js": {
+            "Building RESTful APIs": [
+                "Setting Up Express.js",
+                "Creating RESTful Endpoints",
+                "Handling API Requests and Responses",
+                "Swagger for API Documentation"
+            ],
+            "Performance Optimization": [
+                "Profiling Node.js Applications",
+                "Scaling Node.js Applications",
+                "Handling High Traffic with Clustering",
+                "Caching with Redis"
+            ]
+        }
+    },
+    "Express.js": {
+        "Basics of Express.js": {
+            "Introduction to Express.js": [
+                "What is Express.js?",
+                "Setting Up Express Application",
+                "Understanding Middleware in Express",
+                "Express Project Structure"
+            ],
+            "Routing in Express.js": [
+                "Defining Routes in Express",
+                "Route Parameters and Query Strings",
+                "Handling Different HTTP Methods",
+                "Route Groups and Nested Routes"
+            ],
+            "Middleware in Express.js": [
+                "Built-in Middleware in Express",
+                "Creating Custom Middleware",
+                "Using Middleware for Authentication",
+                "Error Handling Middleware"
+            ],
+            "Template Engines": [
+                "Using Pug with Express",
+                "Integrating Handlebars with Express",
+                "Rendering Dynamic Content",
+                "View Caching in Express"
+            ]
+        },
+        "Core Concepts of Express.js": {
+            "Error Handling": [
+                "Using Error-Handling Middleware",
+                "Handling Synchronous and Asynchronous Errors",
+                "Custom Error Messages",
+                "Error Logging with Winston"
+            ],
+            "Session Management": [
+                "Using Express-Session for User Sessions",
+                "Storing Session Data",
+                "Session Expiration and Management",
+                "Using Redis for Session Storage"
+            ],
+            "RESTful APIs with Express": [
+                "Creating RESTful Endpoints",
+                "Handling JSON Responses",
+                "Connecting to Databases in Express",
+                "Versioning APIs in Express"
+            ]
+        },
+        "Advanced Express.js": {
+            "Authentication in Express": [
+                "Implementing JWT Authentication",
+                "OAuth Integration",
+                "Session and Cookie Management",
+                "Using Passport.js for Authentication"
+            ],
+            "Deploying Express Applications": [
+                "Deploying to Heroku",
+                "Using Docker with Express",
+                "Configuring Production Environments",
+                "CI/CD for Express with GitLab CI"
+            ]
+        }
+    },
+    "AWS": {
+        "Basics of AWS": {
+            "Introduction to AWS": [
+                "What is AWS?",
+                "Setting Up an AWS Account",
+                "Overview of AWS Services",
+                "AWS Free Tier"
+            ],
+            "EC2 Instances": [
+                "Launching EC2 Instances",
+                "Configuring Security Groups",
+                "Connecting to EC2 via SSH",
+                "Using EC2 Spot Instances"
+            ],
+            "S3 Buckets": [
+                "Creating and Managing S3 Buckets",
+                "Uploading and Downloading Files",
+                "Configuring Bucket Permissions",
+                "S3 Versioning and Lifecycle Policies"
+            ],
+            "IAM Roles and Policies": [
+                "Understanding IAM Roles",
+                "Creating IAM Users and Groups",
+                "Attaching Policies to Users",
+                "IAM Best Practices"
+            ]
+        },
+        "Core Concepts of AWS": {
+            "RDS and Databases": [
+                "Setting Up RDS Instances",
+                "Connecting RDS to Applications",
+                "Managing Backups and Snapshots",
+                "Using Aurora for High Availability"
+            ],
+            "Elastic Load Balancing (ELB)": [
+                "Setting Up Load Balancers",
+                "Distributing Traffic Across EC2 Instances",
+                "Configuring SSL/TLS for ELB",
+                "Cross-Region Load Balancing"
+            ],
+            "Lambda Functions": [
+                "Creating Serverless Functions",
+                "Triggering Lambda Functions with Events",
+                "Using API Gateway with Lambda",
+                "Deploying Lambda Functions with AWS SAM"
+            ]
+        },
+        "Advanced AWS": {
+            "AWS CloudFormation": [
+                "Creating and Managing Stacks",
+                "Using YAML for CloudFormation Templates",
+                "Automating Infrastructure with CloudFormation",
+                "CloudFormation Best Practices"
+            ],
+            "AWS Security Best Practices": [
+                "Implementing Encryption with KMS",
+                "Securing S3 Buckets with Bucket Policies",
+                "Configuring VPC for Network Security",
+                "Using AWS Shield for DDoS Protection"
+            ]
+        }
+    },
+    "Machine Learning" : {
+        "Basics of Machine Learning": {
+        "What is Machine Learning?": [
+            "Definition of ML",
+            "Types of ML (Supervised, Unsupervised, Reinforcement Learning)",
+            "Applications of ML"
+        ],
+        "Linear Algebra": [
+            "Scalars, Vectors, Matrices, and Tensors",
+            "Matrix operations (addition, multiplication, inversion)",
+            "Eigenvalues and Eigenvectors"
+        ],
+        "Probability and Statistics": [
+            "Basic probability concepts (independence, conditional probability, Bayes' Theorem)",
+            "Random variables, distributions (Normal, Poisson, Binomial)",
+            "Descriptive statistics (mean, median, variance, standard deviation)"
+        ],
+        "Calculus": [
+            "Derivatives, Partial Derivatives",
+            "Gradients and optimization basics",
+            "Chain rule and its application in backpropagation"
+        ],
+        "Programming Skills": [
+            "Python or R",
+            "Basic libraries: NumPy, pandas, matplotlib, seaborn",
+            "IDEs: Jupyter Notebook, VS Code"
+        ]
+        },
+        "Core Machine Learning Concepts": {
+        "Supervised Learning": [
+            "Linear Regression (Cost functions, Gradient Descent)",
+            "Logistic Regression (Sigmoid function, Binary Classification)",
+            "Decision Trees and Random Forests",
+            "Support Vector Machines (Kernel tricks)",
+            "Evaluation Metrics (Accuracy, Precision, Recall, F1 Score, ROC-AUC)"
+        ],
+        "Unsupervised Learning": [
+            "Clustering Algorithms (K-Means, Hierarchical Clustering, DBSCAN)",
+            "Dimensionality Reduction (PCA, t-SNE, UMAP)",
+            "Association Rule Learning (Apriori, FP-Growth)"
+        ],
+        "Reinforcement Learning": [
+            "Markov Decision Process",
+            "Q-Learning, SARSA",
+            "Deep Reinforcement Learning (DQN, A3C)"
+        ],
+        "Model Selection and Evaluation": [
+            "Train/Test Split",
+            "Cross-validation (K-Fold, Leave-One-Out)",
+            "Hyperparameter Tuning (Grid Search, Random Search)",
+            "Overfitting and Underfitting"
+        ]
+        },
+        "Machine Learning Tools and Techniques": {
+        "Data Preprocessing": [
+            "Handling missing data, outliers",
+            "Encoding categorical variables (One-Hot, Label Encoding)",
+            "Feature Scaling (Normalization, Standardization)"
+        ],
+        "Feature Engineering": [
+            "Feature extraction",
+            "Feature selection (Lasso, Ridge, Recursive Feature Elimination)",
+            "Interaction terms and polynomial features"
+        ],
+        "Ensemble Methods": [
+            "Bagging (Bootstrap Aggregation)",
+            "Boosting (AdaBoost, Gradient Boosting, XGBoost, LightGBM, CatBoost)",
+            "Stacking"
+        ],
+        "Optimization Techniques": [
+            "Gradient Descent Variants (Stochastic, Mini-Batch, Adam)",
+            "Regularization (L1, L2)",
+            "Learning Rate Schedulers"
+        ]
+        },
+        "Deep Learning": {
+        "Introduction to Deep Learning": [
+            "Neural Networks Basics (Perceptron, Activation Functions)",
+            "Architecture of Neural Networks (Input, Hidden, Output layers)"
+        ],
+        "Deep Learning Frameworks": [
+            "TensorFlow",
+            "PyTorch",
+            "Keras"
+        ],
+        "Convolutional Neural Networks (CNNs)": [
+            "Convolutions, Pooling",
+            "Architectures: LeNet, AlexNet, VGG, ResNet",
+            "Applications: Image Classification, Object Detection"
+        ],
+        "Recurrent Neural Networks (RNNs)": [
+            "Sequence Modeling",
+            "Long Short-Term Memory (LSTM), Gated Recurrent Unit (GRU)",
+            "Applications: Time Series Forecasting, Natural Language Processing"
+        ],
+        "Generative Models": [
+            "Autoencoders",
+            "Generative Adversarial Networks (GANs) (Applications: Image Synthesis, Style Transfer)",
+            "Variational Autoencoders (VAEs)"
+        ]
+        },
+        "Advanced Topics": {
+            "Natural Language Processing (NLP)": [
+                "Text preprocessing (Tokenization, Lemmatization, Stopword removal)",
+                "Word Embeddings (Word2Vec, GloVe, FastText)",
+                "Sequence Models: Transformers, BERT, GPT",
+                "Applications: Sentiment Analysis, Text Summarization, Chatbots"
+            ],
+            "Time Series Analysis": [
+                "ARIMA, SARIMA",
+                "Prophet, LSTM for Time Series"
+            ],
+            "Reinforcement Learning (Advanced)": [
+                "Policy Gradient Methods",
+                "Actor-Critic Models"
+            ],
+            "Distributed Computing for ML": [
+                "ML on Big Data using Apache Spark, Dask"
+            ],
+            "AutoML": [
+                "Frameworks: H2O.ai, Auto-sklearn, Google AutoML"
+            ]
+        }
+    },
+    "Generative AI" : {
+        "Basics of Generative AI": {
+            "What is Generative AI?": [
+            "Definition and Overview",
+            "Difference between Generative and Discriminative Models",
+            "Applications of Generative AI"
+            ],
+            "Mathematical Foundations": [
+            "Linear Algebra (Vectors, Matrices, Eigenvalues)",
+            "Probability and Statistics (Distributions, Bayes' Theorem, Expectation)",
+            "Optimization Techniques (Gradient Descent, Lagrange Multipliers)"
+            ],
+            "Programming Foundations": [
+            "Python Basics (Data Structures, Loops, Functions)",
+            "Essential Libraries: NumPy, pandas, matplotlib",
+            "Introduction to Deep Learning Frameworks: TensorFlow, PyTorch"
+            ]
+        },
+        "Core Concepts in Generative AI": {
+            "Machine Learning Basics": [
+            "Supervised vs Unsupervised Learning",
+            "Regression and Classification",
+            "Clustering and Dimensionality Reduction (PCA, t-SNE)"
+            ],
+            "Deep Learning Foundations": [
+            "Artificial Neural Networks (ANNs)",
+            "Backpropagation and Optimization",
+            "Activation Functions (ReLU, Sigmoid, Softmax)"
+            ],
+            "Generative Models Basics": [
+            "Autoencoders (AE)",
+            "Variational Autoencoders (VAEs)",
+            "Introduction to Generative Adversarial Networks (GANs)"
+            ]
+        },
+        "Advanced Generative AI Models": {
+            "Generative Adversarial Networks (GANs)": [
+            "Architecture: Generator and Discriminator",
+            "Loss Functions (Binary Cross-Entropy)",
+            "Types of GANs: DCGAN, Conditional GANs, StyleGAN, CycleGAN",
+            "Applications: Image Synthesis, Super-Resolution"
+            ],
+            "Variational Autoencoders (VAEs)": [
+            "Latent Space Representations",
+            "KL Divergence",
+            "Applications: Data Augmentation, Image Reconstruction"
+            ],
+            "Transformers for Generative AI": [
+            "Transformer Architecture (Attention Mechanism)",
+            "Large Language Models (GPT, BERT, T5)",
+            "Applications: Text Generation, Translation, Summarization"
+            ],
+            "Diffusion Models": [
+            "Denoising Diffusion Probabilistic Models (DDPMs)",
+            "Applications: Image Generation, Speech Synthesis"
+            ]
+        },
+        "Tools and Frameworks for Generative AI": {
+            "Deep Learning Frameworks": [
+            "PyTorch",
+            "TensorFlow/Keras"
+            ],
+            "Pre-trained Models and APIs": [
+            "OpenAI API (GPT Models)",
+            "Hugging Face Transformers",
+            "Google DeepMind and GeminiAI"
+            ],
+            "Data Processing Libraries": [
+            "pandas for Data Handling",
+            "OpenCV for Image Preprocessing",
+            "NLTK and spaCy for Text Preprocessing"
+            ]
+        },
+        "Applications of Generative AI": {
+            "Natural Language Processing (NLP)": [
+            "Text Generation (Chatbots, Storytelling)",
+            "Machine Translation",
+            "Text Summarization"
+            ],
+            "Computer Vision": [
+            "Image Synthesis",
+            "Style Transfer",
+            "Inpainting and Image Editing"
+            ],
+            "Speech and Audio": [
+            "Text-to-Speech (TTS)",
+            "Speech-to-Text",
+            "Music Generation"
+            ],
+            "Multimodal Generative AI": [
+            "Text-to-Image Models (DALL·E, Stable Diffusion)",
+            "Text-to-Video Models",
+            "Image Captioning"
+            ]
+        },
+        "Advanced Topics in Generative AI": {
+            "Ethical Considerations": [
+            "Bias and Fairness",
+            "Deepfakes and Misinformation",
+            "Privacy Concerns"
+            ],
+            "Fine-Tuning Pre-Trained Models": [
+            "Transfer Learning for Specific Tasks",
+            "Prompt Engineering",
+            "Few-shot and Zero-shot Learning"
+            ],
+            "Reinforcement Learning with Generative AI": [
+            "Reinforcement Learning with Human Feedback (RLHF)",
+            "Applications in Game Development and Simulations"
+            ]
+        }
+    }      
+  }
